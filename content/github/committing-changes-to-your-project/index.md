@@ -25,3 +25,6 @@ versions:
 {% topic_link_in_list /troubleshooting-commits %}
     {% link_in_list /commit-exists-on-github-but-not-in-my-local-clone %}
     {% link_in_list /why-are-my-commits-linked-to-the-wrong-user %}
+
+
+ Access granted home screen lounger
